@@ -1,0 +1,1 @@
+{"version":3,"file":"getAddressOfNftOwner.js","sourceRoot":"","sources":["../../../../src/contract/infrastructure/contract/getAddressOfNftOwner.ts"],"names":[],"mappings":";;;AAEO,KAAK,UAAU,oBAAoB,CAAiB,KAAa;IACtE,IAAI,YAAY,GAAG,MAAM,IAAI,CAAC,WAAW,CAAC,OAAO,CAAC,OAAO,CAAC,KAAK,CAAC,CAAC,IAAI,EAAE,CAAC;IACxE,OAAO,YAAY,CAAC;AACtB,CAAC;AAHD,oDAGC"}
